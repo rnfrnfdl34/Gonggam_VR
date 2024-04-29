@@ -1,4 +1,0 @@
-repository "Project B@Gonggamore7@cloud"
-  path "/"
-    smartbranch "/main"  
-     

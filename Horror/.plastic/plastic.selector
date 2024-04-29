@@ -1,0 +1,4 @@
+repository "VR_Test 1@Gonggamore7@cloud"
+  path "/"
+    br "/main"
+    co "/main"
